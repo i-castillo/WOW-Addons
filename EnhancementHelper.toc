@@ -1,0 +1,6 @@
+## Interface: 70400
+## Title: EnhancementHelper
+## Author: Isaac Castillo
+## Version: 0.1
+
+stormstrike.lua
